@@ -43,3 +43,4 @@ print(np.linalg.inv(l1))
 ![OUTPUT](PPP1.PNG)
 
 ## RESULT:
+Thus a program is written to find the inverse of the matrix.
